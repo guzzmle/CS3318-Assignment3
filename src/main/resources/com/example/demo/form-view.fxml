@@ -29,11 +29,9 @@
            GridPane.rowIndex="0" GridPane.columnSpan="2"
            GridPane.rowSpan="1" GridPane.halignment="CENTER" >
         <font>
-            <Font name="Arial" size="20" ></Font>
+            <Font name="Arial" size="20"/>
         </font>
-        <GridPane.margin>
-            <Insets top="20" right="0" bottom="20" left="0"></Insets>
-        </GridPane.margin>
+        <Insets top="20" bottom="20"/>
     </Label>
 
     <Label text="Full Name: " GridPane.columnIndex="0"
@@ -63,8 +61,6 @@
             GridPane.columnSpan="2" GridPane.rowSpan="1"
             GridPane.halignment="CENTER"
             onAction="#buttonHandler">
-        <GridPane.margin>
-            <Insets top="20" right="0" bottom="20" left="0"></Insets>
-        </GridPane.margin>
+        <Insets top="20" bottom="20"/>
     </Button>
 </GridPane>
