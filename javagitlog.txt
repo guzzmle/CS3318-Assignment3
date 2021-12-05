@@ -1,0 +1,11 @@
+commit 4610fdbb48647dcf26890f01b832c19acf631bd6
+Author: guzzmle <73357188+guzzmle@users.noreply.github.com>
+Date:   Sun Dec 5 22:30:40 2021 +0000
+
+    Rectified email and password validation and cleaned code
+
+commit f946f4b57b9482d2e68cb5dd469a4c4bef07a9a0
+Author: guzzmle <73357188+guzzmle@users.noreply.github.com>
+Date:   Sun Dec 5 22:06:47 2021 +0000
+
+    Initial commit
